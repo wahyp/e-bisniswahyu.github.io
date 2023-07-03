@@ -13,11 +13,9 @@ body {
 @media screen and (min-width: 994px) {
 .form-control {
      width: 380px;
-.card {
-    width: min-content;
 }
 }
-}
+
 
 @media screen and (min-width: 994px) {
 .navbar-nav {
@@ -46,7 +44,6 @@ body {
     font-size: 18px;
     line-height: 30px;
     color: black;
-    margin-right: 8.2rem;
 }
 
 .carousel-indicators {
